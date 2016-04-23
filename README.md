@@ -3,11 +3,11 @@
 
 ###markdown
 
-  -github guide--[Mastering Markdown](https://guides.github.com/features/mastering-markdown)
+  - github guide--[Mastering Markdown](https://guides.github.com/features/mastering-markdown)
   
-  -wiki --[markdown-cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  - wiki --[markdown-cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   
-  -mardown --[syntax-guide](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
+  - mardown --[syntax-guide](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
 
 ###kindle电子书网盘
 
