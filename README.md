@@ -29,6 +29,8 @@
 #### bootstrap
 
   - [full screen bootstrap carousel random initial image](http://www.sitepoint.com/full-screen-bootstrap-carousel-random-initial-image/)
+  - [getbootstrap] (http://getbootstrap.com/)
+  - [boost-cake](http://slywalker.github.io/cakephp-plugin-boost_cake/bootstrap3.html)
   
 #### 主流框架
 
@@ -37,9 +39,48 @@
 #### JS
   
   - [一键分享](http://overtrue.me/share.js/)
+  - [filter.js](https://github.com/jiren/filter.js/tree/master)[filter.js github example](http://jiren.github.io/filter.js/)
+  - [slick.js](http://kenwheeler.github.io/slick/)
+  - [socket.io](http://socket.io/)
+  - [miniui webui](http://www.miniui.com)
+#####JS Frameworks 摘自[2014年最火的21个js框架](http://www.lupaworld.com/article-242458-3.html)
+  - [ionic framework](http://ionicframework.com/)
+  - [backbone js](http://backbonejs.org/#)
+  - [angular js](https://angularjs.org/)
+  - [stapes js](https://hay.github.io/stapes/)
+  - [aura js](http://aurajs.com/)
+  - [krakenjs](http://krakenjs.com/)
+  - [spinejs](http://spinejs.com/)
+  - [agilityjs](http://agilityjs.com/)
+  - [riotjs](http://riotjs.com/)
+  - [flightjs](https://flightjs.github.io/)
+  - [batmanjs](http://batmanjs.org/)
+  - [iiojs 用来做游戏比较酷](http://iio.js.org/)
+  - [sammyjs](http://sammyjs.org/)一个微型的 JavaScript 框架用来简化 JavaScript 应用程序的编写
+  - [emberjs](http://emberjs.com/)一个雄心勃勃的Web应用程序，消除了样板，并提供了一个标准的应用程序架构的JavaScript框架
+  - [qunitjs](https://qunitjs.com/)强大，易于使用的 JavaScript 框架,基于 jQuery，jQuery UI 和 jQuery Moblie 项目，可以测试任意通用的 JavaScript 代码.
+  - [feathersjs](http://feathersjs.com/)
+  - [somajs](http://somajs.github.io/somajs/#/)
+  - [appium.io](http://appium.io/)
+  
   
 #### NodeJs
-  -[nodejs doc](https://nodejs.org/docs/v5.9.1/doc/api/documentation.html)
+  - [nodejs doc](https://nodejs.org/docs/v5.9.1/doc/api/documentation.html)
+  - [real time twitter stream with nodejs and react](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
+  
+  
+#### React
+  - [react](http://facebook.github.io/react/tips/initial-ajax.html)
+  
+#### Metetor
+
+  - [why meteor](https://www.meteor.com/why-meteor/features)
+  - 
+
+#### Facebook
+  - [facebook quickstart](https://developers.facebook.com/docs/javascript/quickstart/v2.2)
+  - 
+  
 #### drupal
 
   - [drupal 模板命名规则](http://www.cnblogs.com/suihui/p/3759317.html)
@@ -48,7 +89,11 @@
   - [write theme info](https://www.drupal.org/node/171205)
   - [drupal core template](https://www.drupal.org/node/190815)
   - [drupal与高性能网站架构](http://www.drupal001.com/topic/drupal/)
-  
+  - [17款优秀的drupal slideshow module](http://www.symphonythemes.com/drupal-blog/5-best-drupal-slideshows)
+  - [drupal7 baidu map 使用教程](http://www.drupalmodule.cn/project/baidu_map/7.x)
+  - [drush commands](http://drushcommands.com/drush-7x/)
+  - [drupal 教程](https://www.lynda.com/Drupal-training-tutorials/186-0.html)
+
 #### XAMPP
 
   - [lauching xampp when osx startup](http://jonathannicol.com/blog/2012/03/12/launching-xampp-at-osx-startup/)
@@ -56,15 +101,29 @@
 #### Composer
 
   - [composer doc](https://getcomposer.org/doc/00-intro.md)
-  
+#### ApacheSolr
+  - [ubuntu 与 tomcat 整合安装](http://blog.csdn.net/cywosp/article/details/38965981#comments)
 #### VPN
   - [shadowsock](https://portal.shadowsocks.com/)
+  - [云翔](http://banjx.com/index.html)
   
-1.主题模板
+
+### 主题模板
 
   - [drupal主题](http://www.mobantu.com/demo/5780)
+  - [wrapbootstrap](https://wrapbootstrap.com/)
+
+### 比较炫酷的网站
+  - [fwa值得每天去流览](http://www.thefwa.com/)
+  - [barni media](http://www.market-me.fr/barni-media/)
+  - [staggering beauty 一个很有意思的网站,可以参考做互动小游戏](http://www.staggeringbeauty.com/)
+  - [一组超炫的页面切换演示](http://www.yyyweb.com/demo/page-transitions/)这个网站上还有很多很炫酷的东西可以挖掘
   
+#### 图片网站
+  - [500px](https://500px.com/)
 
-2.比较炫酷的网站
 
+###LED Mirror TV
+  - [samsung led mirror tv](http://www.hiddentelevision.com/samsungledmirrortv.htm)
+  
 
