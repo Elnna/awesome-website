@@ -3,7 +3,7 @@
 
 ###markdown
 
-  - github guide--[Mastering Markdown](https://guides.github.com/features/mastering-markdown)
+  - github guide --[Mastering Markdown](https://guides.github.com/features/mastering-markdown)
   
   - wiki --[markdown-cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   
@@ -11,9 +11,9 @@
 
 ###kindle电子书网盘
 
-  -[网盘搜](http://www.wangpansou.cn/)
+  - [网盘搜](http://www.wangpansou.cn/)
   
-  -[壹搜](http://www.yiso.me/)
+  - [壹搜](http://www.yiso.me/)
   
 1.主题模板
 
