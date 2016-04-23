@@ -16,6 +16,8 @@
   - [网盘搜](http://www.wangpansou.cn/)
   
   - [壹搜](http://www.yiso.me/)
+
+###[shadowsock](https://portal.shadowsocks.com/)好用的VPN
   
 1.主题模板
 
@@ -23,4 +25,5 @@
   
 
 2.比较炫酷的网站
+
 
