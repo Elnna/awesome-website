@@ -25,6 +25,7 @@
   - [undefinedblog](https://undefinedblog.com/)
   - [jiangwentian github collection source](https://github.com/JingwenTian)
   - [pein0119 github ](https://github.com/pein0119)
+  - [teamtreehouse](https://teamtreehouse.com/)
   
 #### bootstrap
 
@@ -76,6 +77,9 @@
 
   - [why meteor](https://www.meteor.com/why-meteor/features)
   - 
+  
+#### Mobile develop
+  - [cordova](https://cordova.apache.org/)
 
 #### Facebook
   - [facebook quickstart](https://developers.facebook.com/docs/javascript/quickstart/v2.2)
@@ -93,7 +97,8 @@
   - [drupal7 baidu map 使用教程](http://www.drupalmodule.cn/project/baidu_map/7.x)
   - [drush commands](http://drushcommands.com/drush-7x/)
   - [drupal 教程](https://www.lynda.com/Drupal-training-tutorials/186-0.html)
-
+  - [ionic + drupal 教程](https://forum.ionicframework.com/t/ionic-drupal-series/26527)
+  
 #### XAMPP
 
   - [lauching xampp when osx startup](http://jonathannicol.com/blog/2012/03/12/launching-xampp-at-osx-startup/)
@@ -101,8 +106,20 @@
 #### Composer
 
   - [composer doc](https://getcomposer.org/doc/00-intro.md)
+
+#### Redis
+ - [redis 缓存技术](http://redis.io/)
+  
 #### ApacheSolr
   - [ubuntu 与 tomcat 整合安装](http://blog.csdn.net/cywosp/article/details/38965981#comments)
+  
+#### ISPConfig
+  - [在ubuntu14.04上安装ispconfig-3](https://www.howtoforge.com/the-perfect-server-ubuntu-14.04-nginx-bind-mysql-php-postfix-dovecot-and-ispconfig3-p4)
+  - [在centos7上安装ispconfig-3](https://www.howtoforge.com/perfect-server-centos-7-apache2-mysql-php-pureftpd-postfix-dovecot-and-ispconfig3)
+  
+#### Cron & Crontab
+  - [cron crontab](http://www.pantz.org/software/cron/croninfo.html)
+  
 #### VPN
   - [shadowsock](https://portal.shadowsocks.com/)
   - [云翔](http://banjx.com/index.html)
