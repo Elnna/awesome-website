@@ -38,11 +38,27 @@
   
   - [一键分享](http://overtrue.me/share.js/)
   
+#### NodeJs
+  -[nodejs doc](https://nodejs.org/docs/v5.9.1/doc/api/documentation.html)
 #### drupal
 
+  - [drupal 模板命名规则](http://www.cnblogs.com/suihui/p/3759317.html)
   - [create a simple Drupal 7 theme from scratch](http://www.apaddedcell.com/how-create-drupal-7-theme-scratch)
+  - [drupal 7.x theme layer](https://www.drupal.org/node/933976)
+  - [write theme info](https://www.drupal.org/node/171205)
+  - [drupal core template](https://www.drupal.org/node/190815)
+  - [drupal与高性能网站架构](http://www.drupal001.com/topic/drupal/)
+  
+#### XAMPP
 
-###[shadowsock](https://portal.shadowsocks.com/)好用的VPN
+  - [lauching xampp when osx startup](http://jonathannicol.com/blog/2012/03/12/launching-xampp-at-osx-startup/)
+  
+#### Composer
+
+  - [composer doc](https://getcomposer.org/doc/00-intro.md)
+  
+#### VPN
+  - [shadowsock](https://portal.shadowsocks.com/)
   
 1.主题模板
 
