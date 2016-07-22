@@ -38,7 +38,7 @@
   - [主流框架比较:zend framework,cakephp,codeIgniter,symphony,thinkphp,fleaphp](http://www.cnblogs.com/huangjacky/archive/2012/09/02/2667387.html)
 
 #### JS
-  
+  - [jquery 中文文档](http://jquery.cuishifeng.cn/)
   - [一键分享](http://overtrue.me/share.js/)
   - [filter.js](https://github.com/jiren/filter.js/tree/master)[filter.js github example](http://jiren.github.io/filter.js/)
   - [slick.js](http://kenwheeler.github.io/slick/)
