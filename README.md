@@ -152,3 +152,4 @@
   
 ####其他
   - [在线编辑器](http://kindeditor.net/demo.php)
+  - [OCR识别扫描图片的文字](https://github.com/tesseract-ocr/tesseract)
